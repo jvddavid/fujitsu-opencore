@@ -31,3 +31,4 @@ To prepare this EFI for work, it was necessary use the DSDT.aml from the Asus X5
 
 - Fn key
 - The Qualcomm Wifi Adapter (QCA64xA)
+- Do not detect battery info
